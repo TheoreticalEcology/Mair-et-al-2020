@@ -19,4 +19,4 @@ The material is organized in two folders:
   Subfolder 'SupplementalData' contains the Supplemental Data file published along with the article. 
   The file 'MDD.R' contains the function used to calculate the minimum detectable difference (MDD) for the t-test
 
-* [**MDDshiny**](https://github.com/Mair-et-al-2020/Mair-et-al-2020/tree/master/MDDshiny): This contains a Shiny application reproducing the experimental simulations (1 and 2), allows to specify experimental statistical parameters, and produces figures similar to figures 5-7 in the article. 
+* [**MDDshiny**](https://github.com/TheoreticalEcology/Mair-et-al-2020/tree/master/MDDshiny): This contains a Shiny application reproducing the experimental simulations (1 and 2), allows to specify experimental statistical parameters, and produces figures similar to figures 5-7 in the article. 
