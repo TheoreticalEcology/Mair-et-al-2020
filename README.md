@@ -10,7 +10,7 @@ This repository provides all R code for Mair et al. (2020) **"The MDD concept fo
 
 The material is organized in two folders:
 
-* [**Publication**](https://github.com/Mair-et-al-2020/Mair-et-al-2020/tree/master/Publication): 
+* [**Publication**](https://github.com/TheoreticalEcology/Mair-et-al-2020/tree/master/Publication): 
 
   Subfolder 'Code' contains the materials necessary to reproduce all simulations and analyses in Mair et al. (2020):
   + Simulation 1 belongs to the section "Can the MDD discriminate between true and false negative tests?"
