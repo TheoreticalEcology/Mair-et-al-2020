@@ -14,9 +14,10 @@ This repository provides all R code for
 *Abstract*  
 
 Current regulatory guidelines for pesticide risk assessment recommend that non-significant results should be complemented by the minimum detectable difference (MDD), a statistical indicator that is used to decide if the experiment could have detected biologically relevant effects. Here, we review the statistical theory of the MDD and perform simulations to understand its properties and error rates. Most importantly, we compare the skill of the MDD in distinguishing between true and false negatives (i.e., type II errors) with two alternatives: the minimum detectable effect (MDE), an indicator based on a post-hoc power analysis common in medical studies; and confidence intervals (CIs). Our results demonstrate that MDD and MDE only differ in that the power of the MDD depends on the sample size. Moreover, while both MDD and MDE have some skill in distinguishing between false negatives and true absence of an effect, they do not perform as well as using CI upper bounds to establish trust in a non-significant result. The reason is that, unlike the CI, neither MDD nor MDE consider the estimated effect size in their calculation. We also show that MDD and MDE are no better than CIs in identifying larger effects among the false negatives. We conclude that, while MDDs are useful, CIs are preferable for deciding whether to treat a non-significant test result as a true negative, or for determining an upper bound for an unknown true effect.
+ 
+ ---
   
-  
-*The material is organized in two folders:*
+The material is organized in two folders:
 
 * [**Publication**](https://github.com/TheoreticalEcology/Mair-et-al-2020/tree/master/Publication): 
 
